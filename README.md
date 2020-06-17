@@ -3,4 +3,4 @@ Compara distintos dataframes de acuerdo a las columnas seleccionadas, con el fin
 Es complemento del proyecto "Historial telefonos CECOM".
 
 
-<img src="Escudo2.jpeg">
+<img src="Escudo.jpeg">
